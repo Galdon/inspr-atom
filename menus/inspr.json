@@ -1,0 +1,50 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Inspr Me",
+        "submenu": [
+          {
+            "label": "lowerCamelCase",
+            "command": "inspr:lower_camel_case"
+          },
+          {
+            "label": "UpperCamelCase",
+            "command": "inspr:upper_camel_case"
+          },
+          {
+            "label": "lower_underscores",
+            "command": "inspr:lower_underscores"
+          },
+          {
+            "label": "UPPER_UNDERSCORES",
+            "command": "inspr:upper_underscores"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Inspr Me",
+      "submenu": [
+        {
+          "label": "lowerCamelCase",
+          "command": "inspr:lower_camel_case"
+        },
+        {
+          "label": "UpperCamelCase",
+          "command": "inspr:upper_camel_case"
+        },
+        {
+          "label": "lower_underscores",
+          "command": "inspr:lower_underscores"
+        },
+        {
+          "label": "UPPER_UNDERSCORES",
+          "command": "inspr:upper_underscores"
+        }
+      ]
+    }
+  ]
+}

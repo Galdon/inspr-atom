@@ -1,0 +1,8 @@
+{
+  "atom-workspace": {
+    "ctrl-command-i": "inspr:lower_camel_case",
+    "ctrl-shift-command-i": "inspr:upper_camel_case",
+    "ctrl-command-u": "inspr:lower_underscores",
+    "ctrl-shift-command-u": "inspr:upper_underscores"
+  }
+}
